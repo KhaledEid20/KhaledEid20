@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khaled Eid</h1>
-<h3 align="center">a software engineering student from egypt</h3>
+<h3 align="center">FullStack Devoloper</h3>
 
 - 🔭 I’m currently working on **AutoBidX**
-
-- 🌱 I’m currently learning **ML& DataScience**
-
+- 
 - 📫 How to reach me **khaled_eid77@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
